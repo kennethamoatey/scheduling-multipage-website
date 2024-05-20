@@ -1,0 +1,128 @@
+body{
+	font-family:serif;
+}
+
+
+/*HOME PAGE*/
+.logo{
+	border-style:solid;
+	border-width:1px;
+	border-color:white;
+	box-shadow: 10px 10px deepskyblue;
+	font-size: 32px;
+	padding:0px 5px 0px 5px;
+	background-color:rgb(80,120,180);
+	color:whitesmoke !important;
+	border-radius:10px;
+
+}
+
+.nav{
+	font-size: 24px;
+}
+
+.emphasis{
+	color:lightseagreen;
+}
+
+.email{
+	border-style:solid;
+	border-width:1px;
+	border-right:none;
+	border-radius:15px;
+	border-color:lightgrey;
+}
+
+.signup{
+	background-color:lightseagreen;
+	color:white;
+	font-size: 20px;
+	border:none;
+	border-radius:20px;
+	
+
+}
+
+.design{
+	background-image:url(./image-schedule/task.jpg);
+	background-size: cover;
+	height:;
+	background-position:center top;
+	background-attachment:scroll;
+	border-radius:10px;
+	
+}
+	
+.highlight{
+	height:100px;
+	background-color:rgb(225,225,225);
+	border-radius:;
+	font-size: 30px;
+	padding-top:10px;
+	
+
+
+}
+
+.footer{
+	border-left:dashed;
+	border-color:lightseagreen;
+
+}
+
+
+/*individuals*/
+
+
+
+	.emphasise{
+		color:lightcoral;
+	}
+
+
+.footers{
+	height:220px;
+	background-image:url(./image-schedule/low-poly.svg);
+	color:white;
+	padding-top:20px;
+	padding-left:20px;
+}
+
+.plans{
+	border-radius:30px;
+	border:none;
+}
+
+/*teams*/
+
+.second{
+	background-color:white;
+	color:black;
+	font-size: 20px;
+	border-style:solic;
+	border-radius:20px;
+	margin-left:35px;
+	
+
+}
+
+/*enterprise*/
+
+.hero{
+	background-image:url(./image-schedule/stacked.svg);
+	height:150px;
+	background positon:center bottom;
+	background-size: cover;
+	color:white;
+	padding-top:20px;
+}
+
+.one{
+	border-style:solid;
+	border-color:gray;
+	border-width:1px;
+	border-radius:6px;
+	box-shadow:8px 8px grey;
+	padding-left:10px;
+}
+
